@@ -9,7 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		System.out.println("----  切换分支     ---->king ---->master");
 		System.out.println("2019年9月22日01:19:41");
-		System.out.println("2019年9月22日01:29:21");
+		System.out.println("2019年9月22日01:29:21                           ");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
